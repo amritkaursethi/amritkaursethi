@@ -39,9 +39,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
-
-&nbsp;
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61918717/126580626-e1d33d7c-5f09-49d4-a073-4b2489be05ab.gif)
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
@@ -90,11 +88,11 @@
     
 <a href="https://github.com/amritkaursethi?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritkaursethi&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Amrit's favorite languages" />
 </a>
   
 <a href="https://github.com/amritkaursethi">
   <img align="center"
-       src="https://camo.githubusercontent.com/8b5091caa1ff05e4715dc7b2dc899cadca03bfc6b3b411c20cc07b2f5116ac75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d626c75656265727279" />
+       src="https://github-readme-stats.vercel.app/api?username=amritkaursethi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
