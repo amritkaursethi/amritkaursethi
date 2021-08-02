@@ -73,7 +73,7 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/61918717/126578564-65f6f35f-37c5-4771-97e8-90b038f75390.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/61918717/126578616-e2b21f7e-c2b1-4cb7-be42-d6e35d1e9e4c.png"></code>  
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="(https://user-images.githubusercontent.com/61918717/126578672-1f691326-2867-4faa-8cd9-9f2ba83b8e8a.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/61918717/126578672-1f691326-2867-4faa-8cd9-9f2ba83b8e8a.png"></code>
   
   </p>
 &nbsp;
